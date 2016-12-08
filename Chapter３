@@ -1,0 +1,3 @@
+fred = "Why do gorillas ha big nostirils?  Big fingers!!"
+
+Print(fred)
